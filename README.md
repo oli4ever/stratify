@@ -1,6 +1,10 @@
 # Stratify - Modern SaaS Landing Page
 
+<<<<<<< HEAD
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://stratify-ivory.vercel.app/)
+=======
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://stratify-5v120jhrh-md-waliul-alams-projects.vercel.app/)
+>>>>>>> 460fdd5522c3d2facde9a2cdafb525b25bda913a
 ![Stratify Screenshot](https://i.imgur.com/xcVfJea.jpeg)
 
 Stratify is a sleek, responsive SaaS landing page template built with React and Vite. Designed to showcase your software product with modern UI elements and smooth animations.
@@ -25,6 +29,7 @@ Stratify is a sleek, responsive SaaS landing page template built with React and 
 
 - 📧 **Lead Generation Ready** - A high-converting contact form section to capture valuable leads and start meaningful conversations.
 
+<<<<<<< HEAD
 ## 🛠 Technologies Used
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://reactjs.org)
@@ -36,6 +41,12 @@ Stratify is a sleek, responsive SaaS landing page template built with React and 
 
 Check out the live demo: [https://stratify-ivory.vercel.app/](https://stratify-ivory.vercel.app/)
 
+=======
+## Live Demo
+
+Check out the live demo: [https://stratify-j3kdyyspl-md-waliul-alams-projects.vercel.app](https://stratify-5v120jhrh-md-waliul-alams-projects.vercel.app/)
+
+>>>>>>> 460fdd5522c3d2facde9a2cdafb525b25bda913a
 ## Installation
 
 Follow these steps to set up the project locally on your machine.
@@ -66,7 +77,11 @@ npm install
 ```bash
 npm run dev
 ```
-
 **Deployment**
 
+<<<<<<< HEAD
+**Deployment**
+
+=======
+>>>>>>> 460fdd5522c3d2facde9a2cdafb525b25bda913a
 This project is configured for easy deployment on Vercel. You can also deploy to other platforms like Netlify or GitHub Pages.
