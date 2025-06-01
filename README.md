@@ -67,11 +67,7 @@ npm install
 ```bash
 npm run dev
 ```
+
 **Deployment**
 
-<<<<<<< HEAD
-**Deployment**
-
-=======
->>>>>>> 460fdd5522c3d2facde9a2cdafb525b25bda913a
 This project is configured for easy deployment on Vercel. You can also deploy to other platforms like Netlify or GitHub Pages.
